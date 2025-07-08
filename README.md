@@ -117,7 +117,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Executive%20view.gif)
+![Overall Report.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Overall%20Report.gif)
 
 ## Finance View
 
