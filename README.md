@@ -121,7 +121,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Finance View
 
-![Finace.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Finance%20view.gif)
+![Finace.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Finance%20view.gif)
 
 ## Sales View
 
