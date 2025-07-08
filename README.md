@@ -125,7 +125,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Sales View
 
-![Sales.gif]()
+![Sales.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Sales%20View.gif)
 
 ## Marketing View
 
