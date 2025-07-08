@@ -125,7 +125,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Sales View
 
-![Sales.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Marketing%20view.gif)
+![Sales.gif]()
 
 ## Marketing View
 
@@ -137,7 +137,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Executive View
 
-![Executive.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Executive%20view.gif)
+![Executive.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Executive%20view.gif)
 
 ## Stakeholder Request
 
