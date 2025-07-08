@@ -129,8 +129,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Marketing%20view.gif)
-
+![Marketing.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Marketing%20view.gif)
 ## Supply chain View
 
 ![Supply chain View.gif](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Supply%20chain%20View.gif)
