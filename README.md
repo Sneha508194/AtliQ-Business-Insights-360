@@ -141,7 +141,7 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Stakeholder Request
 
-![Stakeholder Request](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Resources/Stakeholder%20Request.gif)
+![Stakeholder Request](https://github.com/Sneha508194/AtliQ-Business-Insights-360/blob/main/Stakeholder%20Request.gif)
 
 you can find the full report file here : [Report](https://github.com/Sivasundar3/Business-Insights-360/blob/main/Business%20Insights%20360.pbix)
 
